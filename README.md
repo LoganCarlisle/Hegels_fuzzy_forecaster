@@ -1,4 +1,5 @@
 # Hegels_fuzzy_forecaster
+<img width="960" height="1210" alt="image" src="https://github.com/user-attachments/assets/a7151df5-c6f9-4258-8b4c-11c2960b017c" />
 
 Is a agentic forecasting framework that utilizes Hegel's method of argument and fuzzy logic to forecast on future events with a linguistic representation of the world converted to set probabilities. 
 
