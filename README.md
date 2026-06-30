@@ -6,6 +6,7 @@ to do list
 * expand on example notebook
 * make a cli and integrate cloud models
 * timeline estimate like a week for all this
+  
 Is a agentic forecasting framework that utilizes Hegel's method of argument and fuzzy logic to forecast on future events with a linguistic representation of the world converted to set probabilities. 
 
 This will be formatted more as a blog post with a research project on the side.
